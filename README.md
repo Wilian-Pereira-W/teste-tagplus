@@ -2,7 +2,7 @@
 
 # 1 - Clonar repositório 'SSH'.
 
-git@github.com:Wilian-Pereira-W/project-game-reflex-test.git
+git@github.com:Wilian-Pereira-W/teste-tagplus.git
 
 # 2 - Entrar na pasta do projeto
 
