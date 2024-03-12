@@ -1,0 +1,23 @@
+{
+  "name": "tagplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilian-Pereira-W/teste-tagplus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wilian-Pereira-W/teste-tagplus/issues"
+  },
+  "homepage": "https://github.com/Wilian-Pereira-W/teste-tagplus#readme",
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  }
+}
