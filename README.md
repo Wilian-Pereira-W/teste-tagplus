@@ -6,7 +6,7 @@ git@github.com:Wilian-Pereira-W/teste-tagplus.git
 
 # 2 - Entrar na pasta do projeto
 
-cd project-game-reflex-test
+cd teste-tagplus
 
 # 3 - Instalar as dependências do projeto.
 
